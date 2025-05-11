@@ -1,7 +1,7 @@
 ### Olá, me chamo Lorraine! 👋
 
 🌱 Estou estudando:
-- Desenvolvimento de Software com foco em BackEnd na Cubos Academy;
+
 - Tecnologia em Sistemas para Internet na Universidade Salvador (UNIFACS). 
 
 ### Tecnologias que uso no meu dia: 
