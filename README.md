@@ -1,9 +1,10 @@
 # Olá, eu sou Lorraine! 👋
 
-🎓 Tecnóloga em Sistemas para Internet (UNIFACS - conclusão em 2026)
-💼 Nutricionista e profissional em transição para Tecnologia
-🔍 Experiência em Qualidade de Software (QA), Análise de Requisitos e Desenvolvimento Back-end
-🚀 Idealizadora e responsável pela definição funcional de um sistema de gestão da alimentação escolar utilizado na rede pública municipal
+Sou profissional com experiência em Qualidade de Software (QA), Análise de Requisitos e Desenvolvimento de Soluções voltadas para necessidades reais de negócio.
+
+Atualmente atuo como nutricionista efetiva na Prefeitura Municipal e fui responsável pela concepção, levantamento de requisitos, validação funcional e implantação de um sistema de gestão da alimentação escolar, desenvolvido para automatizar processos relacionados a cardápios, matrículas, modalidades de ensino e geração de pedidos alimentares.
+
+Minha experiência em tecnologia inclui testes manuais, validação de APIs, elaboração e execução de cenários de teste, análise de requisitos, acompanhamento de bugs e homologação de funcionalidades. Também possuo conhecimentos em JavaScript, TypeScript, Node.js, NestJS, SQL e bancos de dados relacionais, o que facilita a comunicação entre áreas de negócio e equipes de desenvolvimento.
 
 ## Áreas de Interesse
 
